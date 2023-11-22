@@ -19,6 +19,8 @@ When installing dTry Plugin Updates, you should ONLY select dTry’s Key Utils.
 If you are using precision, before running nemesis (if on creature profile you must follow the guide by Miss Corruption in the pins, it is recommended to look through that guide even if not though.) you must move precision above tk dodge on the left-hand side of mo2. 
 
 After installing everything, remembering that precision is placed above TK Dodge, your load order should look something like the image below. Classic Sprinting Redone is an optional, but recommended mod, the same goes for IFrame Generator. Ignore the blue crossed-off mods, they are unrelated to this setup. If you are using CSR set Enablesprintkeydodge to true in TK Dodge RE ini. Also, set the DodgeHotkey to 277. If you get an error upon trying to launch saying something along the lines of “failed to open address library” it means you forgot an AE patch. 
+![Modordermethod3](https://github.com/Turtman69/Controller-in-MS/assets/151793140/65d9b566-0b1c-4c47-932c-ea2366605815)
+
 
 I don’t think I missed anything. If I did I’m sure someone will squawk at me eventually.
 
