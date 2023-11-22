@@ -1,6 +1,7 @@
 # Controller-in-MS
 I was asked by the illustrious Miss Corruption to make a guide on controller use for Masterstroke, and who am I to turn her down?
 
+Method 1 does not violate Rule 11. Methods 2 and 3 do.
 
 **DISCLAIMER: THESE ARE INHERENTLY JANKY. I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR INSTALL OR ANY BUGS THEREIN. ALWAYS READ MODPAGES AND UNDERSTAND THEM BEFORE DOWNLOADING.**
 
