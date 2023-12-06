@@ -5,6 +5,8 @@ Method 1 does not violate Rule 11. Methods 2 and 3 do.
 
 **DISCLAIMER: THESE ARE INHERENTLY JANKY. I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR INSTALL OR ANY BUGS THEREIN. ALWAYS READ MODPAGES AND UNDERSTAND THEM BEFORE DOWNLOADING.**
 
+I have recently learned of a mod called [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309?tab=description). I've never tested this mod, but I do plan on doing so when I find the motivation. In the meantime feel free to try it and get back to me.
+
 All of these following methods might encounter a bug during any NSFW scene where the camera will drift. The recommended way to deal with this is to turn off the freeflycam, NUM3 by default I believe. Alternatively, you can fight the camera, but this can get strenuous. All of these methods also struggle to interact with Take Notes. If you like to use that mod these are not for you.
 
 First, I would like to say that if it is your plan to add MCO-DXP to MS on top of using a controller, you should use a combination of the guide in #LS-Modding, now optionally included in LS, for controller, and Mern’s guide on the MCO website. This use case will be further discussed in Method 3. 
