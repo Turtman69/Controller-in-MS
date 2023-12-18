@@ -24,7 +24,7 @@ If you are using precision, before running nemesis (if on creature profile you m
 
 After installing everything, remembering that precision is placed above TK Dodge, your load order on the left pane of mo2 should look something like the image below. On the right pane of mo2 you should drag these added mods to about 300 on the priority list. [Classic Sprinting Redone](https://www.nexusmods.com/skyrimspecialedition/mods/20166) is an optional, but recommended mod, the same goes for [IFrame Generator](https://www.nexusmods.com/skyrimspecialedition/mods/82737?tab=description) and [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309?tab=description). Ignore the black crossed-off mods, they are unrelated to this setup. If you are using CSR set Enablesprintkeydodge to true in TK Dodge RE ini. Also, set the DodgeHotkey to 277. If you get an error upon trying to launch saying something along the lines of “failed to open address library” it means you forgot an AE patch. 
 
-![LoadOrdercontrollerms](https://github.com/Turtman69/Controller-in-MS/assets/151793140/6fee7c47-ea01-4cc9-8a10-2877ef43cd0e)
+![LoadOrdercontrollerms](https://github.com/Turtman69/Controller-in-MS/assets/151793140/46192f6b-706b-44a6-9abc-7949c3ef0ac5)
 
 Once in game you need to alter One Click Power Attack NG's mcm to use Right Trigger and then turn **OFF** 'OnlyDuringAttack.' 
 
