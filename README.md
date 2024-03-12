@@ -5,9 +5,11 @@ Method 1 does not violate Rule 11. Methods 2 and 3 do.
 
 **DISCLAIMER: THESE ARE INHERENTLY JANKY. I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR INSTALL OR ANY BUGS THEREIN. ALWAYS READ MODPAGES AND UNDERSTAND THEM BEFORE DOWNLOADING.**
 
-**TUCS is broken on the newest version of Skyrim. You can fix it by following the directions found in this mod: [Link](https://www.nexusmods.com/skyrimspecialedition/mods/107898)**
+**Controlmaps are broken on the newest version of Skyrim. You can fix it by following the directions found in this mod: [Link](https://www.nexusmods.com/skyrimspecialedition/mods/107898)**
 
-All of these following methods might encounter a bug during any NSFW scene where the camera will drift. The recommended way to deal with this is to turn off the freeflycam, NUM3 by default I believe. Alternatively, you can fight the camera, but this can get strenuous. All of these methods also struggle to interact with Take Notes. If you like to use that mod these are not for you. **If you are using Auto Input Switch you can hold LT to stop the motion, and then RT to resume it. Auto Input Switch also fixes the issue with Take Notes.**
+**TK Dodge RE is broken on the latest version of Skyrim. The fix that will ship with future updates of MS works fine for keyboard, but not as well for controller. My recommendation, if you're on a controller, which you probably are considering you're here, is to swap to the dodge mod made by the MCO team here: [DODGE](https://modding-guild.com/mod/dodge-mcodxp/)**
+
+All of these following methods might encounter a bug during any NSFW scene where the camera will drift. The recommended way to deal with this is to turn off the freeflycam using NUM3. Alternatively, you can fight the camera, but this can get strenuous. All of these methods also struggle to interact with Take Notes. If you like to use that mod these are not for you. **If you are using Auto Input Switch you can hold LT to stop the motion, and then RT to resume it. Auto Input Switch also fixes the issue with Take Notes.**
 
 First, I would like to say that if it is your plan to add MCO-DXP to MS on top of using a controller, you should use a combination of the guide in #LS-Modding, now optionally included in LS, for controller, and Mern’s guide on the MCO website. This use case will be further discussed in Method 3. 
 
