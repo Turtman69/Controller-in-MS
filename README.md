@@ -7,7 +7,7 @@ Method 1 does not violate Rule 11. Methods 2 and 3 do.
 
 **Controlmaps are broken on the newest version of Skyrim. You can fix it by following the directions found in this mod: [Link](https://www.nexusmods.com/skyrimspecialedition/mods/107898)**
 
-**TK Dodge RE is broken on the latest version of Skyrim. The fix that will ship with future updates of MS works fine for keyboard, but not as well for controller. My recommendation, if you're on a controller, which you probably are considering you're here, is to swap to the dodge mod made by the MCO team here: [DODGE](https://modding-guild.com/mod/dodge-mcodxp/)**
+**TK Dodge RE is broken on the latest version of Skyrim. The fix that will ship with future updates of MS works fine for keyboard, but not as well for controller. My recommendation, if you're on a controller, which you probably are considering you're here, is to just play without it. Sucks, but what can you do?**
 
 All of these following methods might encounter a bug during any NSFW scene where the camera will drift. The recommended way to deal with this is to turn off the freeflycam using NUM3. Alternatively, you can fight the camera, but this can get strenuous. All of these methods also struggle to interact with Take Notes. If you like to use that mod these are not for you. **If you are using Auto Input Switch you can hold LT to stop the motion, and then RT to resume it. Auto Input Switch also fixes the issue with Take Notes.**
 
